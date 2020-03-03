@@ -21,6 +21,6 @@ Currently supported:
 # How to use
 
 Simply get all `.bat` files on a USB stick.  
-Plug the USN stick on the laptop to be cleaned.  
-Right click on `reset.bat` and chose `Run as Administrator`  
+Plug the USB stick on the laptop to be cleaned.  
+Right click on `reset.bat` and click on `Run as Administrator`  
 You're done 🙌
